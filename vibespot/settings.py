@@ -99,6 +99,7 @@ DATABASES = {
         'HOST': 'localhost',
         'PORT': '',
     }
+}
 
 
 
